@@ -6,4 +6,5 @@ body {
   font-family: 'Lato', sans-serif;
   background-image: url('https://happywall-img-gallery.imgix.net/2186/marble_love_display.jpg?h=670&q=50&dpr=2&auto=format');
   background-size: cover;
+  text-align: center;
 }
