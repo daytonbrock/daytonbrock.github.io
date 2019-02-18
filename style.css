@@ -1,7 +1,10 @@
 body {
   font-family: Optima, sans-serif;
-  border: 5px solid black;
   background-color: ivory;
+}
+
+obj {
+  border: 2px solid black;
 }
 
 h1 {
