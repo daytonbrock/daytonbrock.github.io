@@ -8,7 +8,10 @@ h1 {
 
 .header {
   float: left;
+  border: 5px solid black;
   background-color: ivory;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 .main {
